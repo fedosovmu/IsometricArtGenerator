@@ -1,0 +1,10 @@
+.buttonSimple {
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+.canvas {
+    position: absolute;
+    left: 25%;
+    top: 25%;
+}
